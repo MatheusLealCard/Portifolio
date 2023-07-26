@@ -38,20 +38,21 @@ body video {
     border-bottom: #fff 2px solid;
 }
 
-img {
-    height: 25vh;
-    border-radius: 100vh;
-    border: #fff 2px solid;
-    animation: Img 3s ease-out;
-    position: relative;
-}
+
 
 .Container p {
     position: relative;
     animation: Parag 3s ease;
     font-size: 3vh;
-    border-bottom: #fff 2px solid;
+    width: 60%;
+    text-align: center;
 }
+
+img {
+    height: 10vh;
+}
+
+
 
 a {
     background-color: #fff;
